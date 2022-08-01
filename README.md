@@ -1,6 +1,6 @@
 # ToDoList_app.github.io
 
-# this is simple todolist app where you can perform simple CRUD operation on this. you can run this app on localhost:3000 on your local server once opening project via visual studio code and run command npm start.
+# this is simple todolist app which developed using reactjs where you can perform simple CRUD operation on this. you can run this app on localhost:3000 on your local server once opening project via visual studio code and run command npm start.
 
 #you can add item
 
